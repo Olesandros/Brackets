@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    background: url("zxcvb(508).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    line-height: 1.5;
+    font-size: 18px;
+}
+.card {
+    width: 500px;
+    margin: 30px auto;
+    background-color: #fff;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+    padding: 20px;
+}
+.photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.table1 {
+    padding: 1px 1px 0 5px;
+}
+.title {
+   
+    margin: 0;
+    font-size: 30px;
+    text-align: center;
+    color: #603b0d;
+}
+.title2 {
+     padding: 0 10px 0 0;
+    font-size: 20px;
+    text-align: right;
+    color: #363433;
+}
+
+.text {
+    font-size: 14px
+}
+.table {
+    background-color: #e0dbdb;
+    border-radius: 15px;
+    padding: 10px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+tr {border-bottom: 2px solid rgba(100, 100, 100, 0.11);}
+tr:hover{background-color: #f4eeee}
